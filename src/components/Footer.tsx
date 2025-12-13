@@ -123,7 +123,8 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground text-center md:text-left">
-              © 2024 CiberConsejos. Hecho con{" "}
+              © 2025 CiberConsejos. Hecho con{" "}
+              
               <Heart className="w-4 h-4 inline text-primary animate-heart-beat" />{" "}
               para estudiantes.
             </p>
